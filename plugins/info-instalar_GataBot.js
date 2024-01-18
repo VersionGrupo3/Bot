@@ -28,4 +28,10 @@ global.ComprarBot = `
 *YAPE 1 :* 926 933 818 , Luis Alberto , 5 SOLES 1 GRUPO
 *YAPE 2 :* 976 336 831 , Mary Luz , 5 SOLES 1 GRUPOº
 *━━━━━━━━━━━━━⬣*
+
+*━━━━━━━━━━━━━⬣*
+*✅ NOTA*
+*⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
+*RECUERDA MANDAR CAPTURA DE PAGO AL +51 902 360 712*
+*━━━━━━━━━━━━━⬣*
 `;
