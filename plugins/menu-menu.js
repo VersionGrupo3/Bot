@@ -84,10 +84,10 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
-〔 𝗠𝗶𝗱𝗮𝗿𝗶 𝗕𝗼𝘁 〕
+〔 𝗦𝘄𝗶𝗿𝗹𝗶𝘅 𝗕𝗼𝘁 〕ºº
 
 *╭━〔 OPTIMUS BOT 〕━⬣*
- ┃👤 Creador : Midari Bot
+ ┃👤 Creador : Swiºrlix Bot
  ┃📱 Numero ; +52 899 501 5765
  ┃🤑 Adquirir : +51 902 360 712
  ┃👻 Rºeferencias : ${md}
@@ -97,7 +97,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 *╭━〔 INFORMACIÓN DE OWNER 〕⬣*
 ┃⊜ Experiencia ➟ ${exp} ⚡
 ┃⊜ Diamantes ➟ ${limit} 💎
-┃⊜ MidariCoins ➟ ${money} 🤖
+┃⊜ SwirlixCoins ➟ ${money} 🤖
 ┃⊜ Tokens ➟ ${joincount} 🪙
 *╰━━━━━━━━━━━━⬣*
 
