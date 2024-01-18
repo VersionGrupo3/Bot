@@ -84,20 +84,20 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
-〔 𝗢𝗽𝘁𝗶𝗺𝘂𝘀 𝗕𝗼𝘁 〕
+〔 𝗠𝗶𝗱𝗮𝗿𝗶 𝗕𝗼𝘁 〕
 
 *╭━〔 OPTIMUS BOT 〕━⬣*
- ┃👤 Creador : Cristhofer
- ┃📱 Numero ; +51 902 360 712
+ ┃👤 Creador : Midari Bot
+ ┃📱 Numero ; +52 899 501 5765
  ┃🤑 Adquirir : +51 902 360 712
- ┃👻 Ig : ${md}
- ┃💻 Grupo : ${nna}
+ ┃👻 Rºeferencias : ${md}
+ ┃💻 Grupo Bot : ${nna}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 INFORMACIÓN DE OWNER 〕⬣*
 ┃⊜ Experiencia ➟ ${exp} ⚡
 ┃⊜ Diamantes ➟ ${limit} 💎
-┃⊜ OptimusCoins ➟ ${money} 🤖
+┃⊜ MidariCoins ➟ ${money} 🤖
 ┃⊜ Tokens ➟ ${joincount} 🪙
 *╰━━━━━━━━━━━━⬣*
 
@@ -112,27 +112,27 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 FUNCION VS / REGLAS / FICHA〕━⬣*
-┃💻➺ _${usedPrefix}Fem4 / Lista TH_
-┃💻➺ _${usedPrefix}Fem6 / Lista TH_
-┃💻➺ _${usedPrefix}FemInterna4 / Lista TH_
-┃💻➺ _${usedPrefix}FemInterna6 / Lista TH_
-┃💻➺ _${usedPrefix}Masc4 / Lista TH_
-┃💻➺ _${usedPrefix}Masc6 / Lista TH_
-┃💻➺ _${usedPrefix}MascInterna4 / Lista TH_
-┃💻➺ _${usedPrefix}MascInterna6 / Lista TH_
-┃💻➺ _${usedPrefix}Mixto4 / Lista TH_
-┃💻➺ _${usedPrefix}Mixto6 / 3 - 3_
-┃💻➺ _${usedPrefix}MixtoInterna4 / Lista TH_
-┃💻➺ _${usedPrefix}MixtoInterna6 / Lista TH_
+┃💻➺ _${usedPrefix}Fem4_
+┃💻➺ _${usedPrefix}Fem6_
+┃💻➺ _${usedPrefix}FemInterna4_
+┃💻➺ _${usedPrefix}FemInterna6_
+┃💻➺ _${usedPrefix}Masc4_
+┃💻➺ _${usedPrefix}Masc6_
+┃💻➺ _${usedPrefix}MascInterna4_
+┃💻➺ _${usedPrefix}MascInterna6_
+┃💻➺ _${usedPrefix}Mixto4_
+┃💻➺ _${usedPrefix}Mixto6_
+┃💻➺ _${usedPrefix}MixtoInterna4_
+┃💻➺ _${usedPrefix}MixtoInterna6_
 ┃💻➺ _${usedPrefix}ReglasApos_
 ┃💻➺ _${usedPrefix}Ficha / Formulario Pa Entrar A Team_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 SPAM Y EDITS 〕⬣*
-┃👤➺ _${usedPrefix}SpamApk / WhatsApp_
-┃👤➺ _${usedPrefix}SpamComu / Comunidades_
+┃👤➺ _${usedPrefix}SpamApk_
+┃👤➺ _${usedPrefix}SpamComu_
 ┃👤➺ _${usedPrefix}ApkEdits_
-┃👤➺ _${usedPrefix}DriveEdits / Recursos_
+┃👤➺ _${usedPrefix}DriveEdits_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
